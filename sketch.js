@@ -290,7 +290,7 @@ function createZombies()
 
   gameState = PLAY;
 
-  bullets = 100;
+  bullets = 150;
 
   live = 3;
   live3.visible = true;
